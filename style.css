@@ -106,6 +106,27 @@ li {
     color: #2c3e50;
 }
 
+/* === Tambahan Tautan & Address untuk Halaman Kontak === */
+a {
+    color: #3498db;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+address {
+    font-style: normal;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+}
+
+.kembali {
+    margin-top: 2rem;
+}
+
 /* === Kaki Halaman === */
 footer {
     background: #2c3e50;
